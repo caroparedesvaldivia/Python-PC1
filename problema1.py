@@ -125,3 +125,4 @@ else:
         x2 = (-b - math.sqrt(discriminante)) / (2*a)
         print("Dos soluciones:", x1, "y", x2)
         
+        
